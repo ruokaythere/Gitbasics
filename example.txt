@@ -1,1 +1,2 @@
 example file for first git push
+git clone git@github.com:ruokaythere/Gitbasics.git to copy repo to local machine.
